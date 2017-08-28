@@ -1,0 +1,11 @@
+.idea*
+.DS_Store
+dewey.iml
+vendor/.DS_Store
+dewey
+tags
+worker
+*.pid
+blueprint.html
+scrum*
+slack*
